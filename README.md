@@ -52,7 +52,8 @@ If you need help ask in our support group
 and we or our friends will try to help you.
 
 Thanks for using our bot 😺
-```
+
+```[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADARSH823/NoinoiRobot)
 
 ## Credits
    - Special thanks to [LonamiWebs](https://github.com/LonamiWebs/Telethon/) for Telethon library.
